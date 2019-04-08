@@ -1,0 +1,44 @@
+{
+  "Zerg": {
+    "Zerg": {
+      "win": 0,
+      "loss": 0
+    },
+    "Protoss": {
+      "win": 0,
+      "loss": 0
+    },
+    "Terran": {
+      "win": 0,
+      "loss": 0
+    }
+  },
+  "Protoss": {
+    "Zerg": {
+      "win": 0,
+      "loss": 0
+    },
+    "Protoss": {
+      "win": 0,
+      "loss": 0
+    },
+    "Terran": {
+      "win": 0,
+      "loss": 0
+    }
+  },
+  "Terran": {
+    "Zerg": {
+      "win": 0,
+      "loss": 0
+    },
+    "Protoss": {
+      "win": 0,
+      "loss": 0
+    },
+    "Terran": {
+      "win": 0,
+      "loss": 0
+    }
+  }
+}
